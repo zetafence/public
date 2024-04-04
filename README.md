@@ -39,8 +39,9 @@
 
 ## Security Articles
 
-- [A Review of Attack Graph and Attack Tree Visual Syntax in Cyber Security](https://www.sciencedirect.com/science/article/abs/pii/S1574013719300772)
-- [LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664)
+- [LLM Agents can Autonomously Hack Websites, Feb. 2024](https://arxiv.org/abs/2402.06664)
+- [An Attacker’s Dream? Exploring the Capabilities of ChatGPT for Developing Malware, Aug. 2023](https://dl.acm.org/doi/abs/10.1145/3607505.3607513)
+- [A Review of Attack Graph and Attack Tree Visual Syntax in Cyber Security, Feb. 2020](https://www.sciencedirect.com/science/article/abs/pii/S1574013719300772)
 
 ## Industry Concerns
 
