@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img align="left" width="100" height="100" src="https://www.google.com/photos/about/static/images/ui/logo-photos.png" alt="Zetafence"/>
+    <img align="left" width="100" height="100" src="https://zetafence.com/logo.png" alt="Zetafence"/>
     <br />
     <p style="color: #808080; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
     ZetaFence Attack Path Analysis
